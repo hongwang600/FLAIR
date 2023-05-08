@@ -1,0 +1,402 @@
+[
+    {
+        "question": "what is the result of 5191 multiplied by 1929?",
+        "answer": 10013439
+    },
+    {
+        "question": "what is the result of 7341 multiplied by 7315?",
+        "answer": 53699415
+    },
+    {
+        "question": "what is the result of 5612 multiplied by 6872?",
+        "answer": 38565664
+    },
+    {
+        "question": "what is the result of 6246 multiplied by 8750?",
+        "answer": 54652500
+    },
+    {
+        "question": "what is the result of 4074 multiplied by 9123?",
+        "answer": 37167102
+    },
+    {
+        "question": "what is the result of 5196 multiplied by 7757?",
+        "answer": 40305372
+    },
+    {
+        "question": "what is the result of 1903 multiplied by 6827?",
+        "answer": 12991781
+    },
+    {
+        "question": "what is the result of 7310 multiplied by 4548?",
+        "answer": 33245880
+    },
+    {
+        "question": "what is the result of 7732 multiplied by 8886?",
+        "answer": 68706552
+    },
+    {
+        "question": "what is the result of 9410 multiplied by 3658?",
+        "answer": 34421780
+    },
+    {
+        "question": "What is the result of 4681 divided by 5506, rounded to 4 decimal places?",
+        "answer": 0.8502
+    },
+    {
+        "question": "What is the result of 9352 divided by 9636, rounded to 4 decimal places?",
+        "answer": 0.9705
+    },
+    {
+        "question": "What is the result of 7268 divided by 5568, rounded to 4 decimal places?",
+        "answer": 1.3053
+    },
+    {
+        "question": "What is the result of 9437 divided by 8324, rounded to 4 decimal places?",
+        "answer": 1.1337
+    },
+    {
+        "question": "What is the result of 8735 divided by 6776, rounded to 4 decimal places?",
+        "answer": 1.2891
+    },
+    {
+        "question": "What is the result of 6393 divided by 4135, rounded to 4 decimal places?",
+        "answer": 1.5461
+    },
+    {
+        "question": "What is the result of 4251 divided by 4814, rounded to 4 decimal places?",
+        "answer": 0.883
+    },
+    {
+        "question": "What is the result of 2200 divided by 3670, rounded to 4 decimal places?",
+        "answer": 0.5995
+    },
+    {
+        "question": "What is the result of 4298 divided by 4844, rounded to 4 decimal places?",
+        "answer": 0.8873
+    },
+    {
+        "question": "What is the result of 6051 divided by 2898, rounded to 4 decimal places?",
+        "answer": 2.088
+    },
+    {
+        "question": "What is the remainder when 61108943 is divided by 2292?",
+        "answer": 1931
+    },
+    {
+        "question": "What is the remainder when 76347659 is divided by 1799?",
+        "answer": 1697
+    },
+    {
+        "question": "What is the remainder when 15701119 is divided by 3477?",
+        "answer": 2464
+    },
+    {
+        "question": "What is the remainder when 60113555 is divided by 6600?",
+        "answer": 755
+    },
+    {
+        "question": "What is the remainder when 17027294 is divided by 2654?",
+        "answer": 1884
+    },
+    {
+        "question": "What is the remainder when 72436895 is divided by 9482?",
+        "answer": 3897
+    },
+    {
+        "question": "What is the remainder when 87521832 is divided by 2274?",
+        "answer": 120
+    },
+    {
+        "question": "What is the remainder when 24077584 is divided by 5784?",
+        "answer": 4576
+    },
+    {
+        "question": "What is the remainder when 71761465 is divided by 8075?",
+        "answer": 7015
+    },
+    {
+        "question": "What is the remainder when 73226079 is divided by 9103?",
+        "answer": 1547
+    },
+    {
+        "question": "What is 11 to the power of 9?",
+        "answer": 2357947691
+    },
+    {
+        "question": "What is 16 to the power of 7?",
+        "answer": 268435456
+    },
+    {
+        "question": "What is 12 to the power of 6?",
+        "answer": 2985984
+    },
+    {
+        "question": "What is 18 to the power of 5?",
+        "answer": 1889568
+    },
+    {
+        "question": "What is 14 to the power of 5?",
+        "answer": 537824
+    },
+    {
+        "question": "What is 19 to the power of 9?",
+        "answer": 322687697779
+    },
+    {
+        "question": "What is 12 to the power of 9?",
+        "answer": 5159780352
+    },
+    {
+        "question": "What is 13 to the power of 5?",
+        "answer": 371293
+    },
+    {
+        "question": "What is 18 to the power of 8?",
+        "answer": 11019960576
+    },
+    {
+        "question": "What is 11 to the power of 8?",
+        "answer": 214358881
+    },
+    {
+        "question": "What is the square root of 68789450, rounded to 4 decimal places?",
+        "answer": 8293.9406
+    },
+    {
+        "question": "What is the square root of 93920550, rounded to 4 decimal places?",
+        "answer": 9691.2615
+    },
+    {
+        "question": "What is the square root of 38699054, rounded to 4 decimal places?",
+        "answer": 6220.8564
+    },
+    {
+        "question": "What is the square root of 93549887, rounded to 4 decimal places?",
+        "answer": 9672.1191
+    },
+    {
+        "question": "What is the square root of 66552697, rounded to 4 decimal places?",
+        "answer": 8157.9836
+    },
+    {
+        "question": "What is the square root of 43255898, rounded to 4 decimal places?",
+        "answer": 6576.9216
+    },
+    {
+        "question": "What is the square root of 66063836, rounded to 4 decimal places?",
+        "answer": 8127.9663
+    },
+    {
+        "question": "What is the square root of 44337422, rounded to 4 decimal places?",
+        "answer": 6658.6351
+    },
+    {
+        "question": "What is the square root of 69541810, rounded to 4 decimal places?",
+        "answer": 8339.1732
+    },
+    {
+        "question": "What is the square root of 22484345, rounded to 4 decimal places?",
+        "answer": 4741.766
+    },
+    {
+        "question": "what is 2584 squared?",
+        "answer": 6677056
+    },
+    {
+        "question": "what is 1391 squared?",
+        "answer": 1934881
+    },
+    {
+        "question": "what is 7594 squared?",
+        "answer": 57668836
+    },
+    {
+        "question": "what is 8983 squared?",
+        "answer": 80694289
+    },
+    {
+        "question": "what is 9868 squared?",
+        "answer": 97377424
+    },
+    {
+        "question": "what is 1353 squared?",
+        "answer": 1830609
+    },
+    {
+        "question": "what is 6877 squared?",
+        "answer": 47293129
+    },
+    {
+        "question": "what is 2892 squared?",
+        "answer": 8363664
+    },
+    {
+        "question": "what is 3957 squared?",
+        "answer": 15657849
+    },
+    {
+        "question": "what is 3399 squared?",
+        "answer": 11553201
+    },
+    {
+        "question": "what is the factorial of 22?",
+        "answer": 1124000727777607680000
+    },
+    {
+        "question": "what is the factorial of 14?",
+        "answer": 87178291200
+    },
+    {
+        "question": "what is the factorial of 16?",
+        "answer": 20922789888000
+    },
+    {
+        "question": "what is the factorial of 24?",
+        "answer": 620448401733239439360000
+    },
+    {
+        "question": "what is the factorial of 29?",
+        "answer": 8841761993739701954543616000000
+    },
+    {
+        "question": "what is the factorial of 23?",
+        "answer": 25852016738884976640000
+    },
+    {
+        "question": "what is the factorial of 12?",
+        "answer": 479001600
+    },
+    {
+        "question": "what is the factorial of 21?",
+        "answer": 51090942171709440000
+    },
+    {
+        "question": "what is the factorial of 10?",
+        "answer": 3628800
+    },
+    {
+        "question": "what is the factorial of 26?",
+        "answer": 403291461126605635584000000
+    },
+    {
+        "question": "what is the value of log base 2 of 5784, rounded to 4 decimal places?",
+        "answer": 8.6629
+    },
+    {
+        "question": "what is the value of log base 2 of 9432, rounded to 4 decimal places?",
+        "answer": 9.1519
+    },
+    {
+        "question": "what is the value of log base 2 of 1349, rounded to 4 decimal places?",
+        "answer": 7.2071
+    },
+    {
+        "question": "what is the value of log base 2 of 9908, rounded to 4 decimal places?",
+        "answer": 9.2011
+    },
+    {
+        "question": "what is the value of log base 2 of 6950, rounded to 4 decimal places?",
+        "answer": 8.8465
+    },
+    {
+        "question": "what is the value of log base 2 of 2353, rounded to 4 decimal places?",
+        "answer": 7.7634
+    },
+    {
+        "question": "what is the value of log base 2 of 4446, rounded to 4 decimal places?",
+        "answer": 8.3998
+    },
+    {
+        "question": "what is the value of log base 2 of 7509, rounded to 4 decimal places?",
+        "answer": 8.9239
+    },
+    {
+        "question": "what is the value of log base 2 of 7825, rounded to 4 decimal places?",
+        "answer": 8.9651
+    },
+    {
+        "question": "what is the value of log base 2 of 4715, rounded to 4 decimal places?",
+        "answer": 8.4585
+    },
+    {
+        "question": "what is the sine of 4707, rounded to 4 decimal places?",
+        "answer": 0.7797
+    },
+    {
+        "question": "what is the sine of 7238, rounded to 4 decimal places?",
+        "answer": -0.2275
+    },
+    {
+        "question": "what is the sine of 1357, rounded to 4 decimal places?",
+        "answer": -0.1672
+    },
+    {
+        "question": "what is the sine of 9165, rounded to 4 decimal places?",
+        "answer": -0.8273
+    },
+    {
+        "question": "what is the sine of 9735, rounded to 4 decimal places?",
+        "answer": 0.7143
+    },
+    {
+        "question": "what is the sine of 5894, rounded to 4 decimal places?",
+        "answer": 0.3636
+    },
+    {
+        "question": "what is the sine of 6195, rounded to 4 decimal places?",
+        "answer": -0.2189
+    },
+    {
+        "question": "what is the sine of 3779, rounded to 4 decimal places?",
+        "answer": 0.3297
+    },
+    {
+        "question": "what is the sine of 6293, rounded to 4 decimal places?",
+        "answer": -0.3801
+    },
+    {
+        "question": "what is the sine of 4584, rounded to 4 decimal places?",
+        "answer": -0.4044
+    },
+    {
+        "question": "what is the cosine of 3499, rounded to 4 decimal places?",
+        "answer": 0.7424
+    },
+    {
+        "question": "what is the cosine of 3291, rounded to 4 decimal places?",
+        "answer": 0.1807
+    },
+    {
+        "question": "what is the cosine of 4230, rounded to 4 decimal places?",
+        "answer": 0.1539
+    },
+    {
+        "question": "what is the cosine of 9386, rounded to 4 decimal places?",
+        "answer": 0.4723
+    },
+    {
+        "question": "what is the cosine of 5750, rounded to 4 decimal places?",
+        "answer": 0.6329
+    },
+    {
+        "question": "what is the cosine of 1985, rounded to 4 decimal places?",
+        "answer": 0.8839
+    },
+    {
+        "question": "what is the cosine of 1011, rounded to 4 decimal places?",
+        "answer": 0.8294
+    },
+    {
+        "question": "what is the cosine of 3502, rounded to 4 decimal places?",
+        "answer": -0.6404
+    },
+    {
+        "question": "what is the cosine of 2957, rounded to 4 decimal places?",
+        "answer": -0.7239
+    },
+    {
+        "question": "what is the cosine of 3113, rounded to 4 decimal places?",
+        "answer": -0.9498
+    }
+]
