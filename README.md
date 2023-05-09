@@ -21,6 +21,11 @@ Below are the description for each FLAIR question:
 8. Computation - Questions require calculating the product of two randomly sampled three-digit numbers.
 
 ## Evaluation
+![Image text](https://github.com/hongwang600/FLAIR/edit/main/results.png)
+
+## Implementation Details
+### 1. Counting
+1. Sample a candidate character set from the entire alphabet
 
 ## Contributing
 
