@@ -18,7 +18,7 @@ Below are the description for each FLAIR question:
 5. Noise Injection - Questions are common sense questions with added noise by appending uppercase letters to words within the question.
 6. ASCII Art - Questions present an ASCII art and require providing the corresponding label as the answer.
 7. Memorization - Questions require enumerating items within a category or answering domain-specific questions that are difficult for humans to recall.
-8. Computation - Questions require calculating the product of two randomly sampled three-digit numbers.
+8. Computation - Questions require calculating the product of two randomly sampled four-digit numbers.
 
 ## Evaluation
 ![Image text](https://github.com/hongwang600/FLAIR/blob/main/results.png)
