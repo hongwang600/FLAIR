@@ -24,8 +24,51 @@ Below are the description for each FLAIR question:
 ![Image text](https://github.com/hongwang600/FLAIR/blob/main/results.png)
 
 ## Implementation Details
+We choosed ten users for our user study.
 ### 1. Counting
-1. Sample a candidate character set from the entire alphabet
+1. To conduct this experiment, we will first generate a candidate character set by randomly sampling 3 to 5 letters from the entire alphabet.
+2. Using the generated character set, we will create a random string by sampling k times, where k is set to 30 for this experiment.
+3. Next, we will randomly select a character from the generated string and ask users to count the number of times it appears.
+4. Each participant is allocated with 10 counting questions. Answers should match the results exactly.
+
+### 2. Substitution
+
+4. To standardize the experiment, each user will be allocated 10 substitution questions. Answers should match the results exactly.
+
+### 3. Positioning
+1. For our experiment, we will start by generating a candidate character set by randomly sampling 6 to 10 letters from the entire alphabet.
+2. Using the generated character set, we will create a random string by sampling k times, where k is set to 30 for this experiment.
+3. Next, we will randomly select a character from the generated string. Users should find the k-th character after the j-th occurence of the selected character.
+4. Each participant is allocated with 10 positioning questions. Answers should match the results exactly.
+
+### 4. Random Edit
+1. For the first category of questions, we will randomly drop k zeros or ones from a sequence of 20 bits.
+2. For the second category of questions, we will randomly add k zeros or ones to a sequence of 20 bits.
+3. In the third category, we will randomly substitute k zeros with ones or k ones with zeros in a sequence of 20 bits.
+4. The fourth category of questions will involve randomly swapping zeros and ones k times in a sequence of 20 bits.
+5. Each participant is allocated 10 random edit questions from 2 categories. Answers should pass our answer checker.
+
+### 5. Noise Injection
+1. To design our experiment, we first collected a set of 100 common sense questions along with their corresponding answers. Additionally, we generated a set of 400 random words to serve as noise.
+2. In order to inject noise into the common sense questions, we replaced the spaces within the questions with uppercase random words.
+3. Users will be presented with the noisy questions and are required to remove the random words and answer the questions correctly.
+4. Each participant is allocated 10 noise injection questions from 2 categories. It is important to note that all answers that make sense will be considered correct.
+
+### 6. ASCII arts
+1. To conduct our experiment, we first collected a set of 50 ASCII arts from https://www.asciiart.eu/
+2. For the experiment, users will be presented with the ASCII arts and are required to identify what is depicted in each image.
+3. Each participant is allocated 5 ASCII questions. It is important to note that all answers that make sense will be considered correct.
+
+### 7. Memorization
+1. We have collected 100 questions from various professional fields, including both numerical and knowledge-based questions. 
+2. For numerical questions, users are required to provide an answer with an error margin of no more than 5%. 
+3. For knowledge-based questions, users must provide accurate answers.
+4. Each participant is allocated 10 random memorization questions.
+
+### 8. Computation
+1. Users are required to complete a multiplication question involving two randomly generated four-digit numbers within a time limit of 10 seconds. 
+2. Any answers submitted after the time limit will be marked as incorrect.
+3. In order for the answer to be considered correct, the margin of error must be within 5%.
 
 ## Contributing
 
