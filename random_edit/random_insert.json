@@ -1,0 +1,77 @@
+[
+    {
+        "question": "Randomly insert 2 '0' to the string: 10101110001000110010. Give me 3 different results."
+    },
+    {
+        "question": "Randomly insert 2 '1' to the string: 00110111011010011010. Give me 3 different results."
+    },
+    {
+        "question": "Randomly insert 2 '1' to the string: 01100011101101101000. Give me 3 different results."
+    },
+    {
+        "question": "Randomly insert 2 '1' to the string: 10000100100010110000. Give me 3 different results."
+    },
+    {
+        "question": "Randomly insert 2 '0' to the string: 11000000100010000110. Give me 3 different results."
+    },
+    {
+        "question": "Randomly insert 2 '1' to the string: 01011011110101100010. Give me 3 different results."
+    },
+    {
+        "question": "Randomly insert 2 '0' to the string: 00001100111100000111. Give me 3 different results."
+    },
+    {
+        "question": "Randomly insert 2 '1' to the string: 10010010101010101100. Give me 3 different results."
+    },
+    {
+        "question": "Randomly insert 2 '0' to the string: 00011011000001010110. Give me 3 different results."
+    },
+    {
+        "question": "Randomly insert 2 '1' to the string: 01110100000001010100. Give me 3 different results."
+    },
+    {
+        "question": "Randomly insert 2 '1' to the string: 11000101010010011010. Give me 3 different results."
+    },
+    {
+        "question": "Randomly insert 2 '1' to the string: 10100010000100010001. Give me 3 different results."
+    },
+    {
+        "question": "Randomly insert 2 '1' to the string: 00111001001100000010. Give me 3 different results."
+    },
+    {
+        "question": "Randomly insert 2 '1' to the string: 01001101001101011100. Give me 3 different results."
+    },
+    {
+        "question": "Randomly insert 2 '1' to the string: 00001001000101110101. Give me 3 different results."
+    },
+    {
+        "question": "Randomly insert 2 '0' to the string: 00001001101011011111. Give me 3 different results."
+    },
+    {
+        "question": "Randomly insert 2 '0' to the string: 10010011101110011110. Give me 3 different results."
+    },
+    {
+        "question": "Randomly insert 2 '1' to the string: 00011001000001000101. Give me 3 different results."
+    },
+    {
+        "question": "Randomly insert 2 '0' to the string: 00000000010010010101. Give me 3 different results."
+    },
+    {
+        "question": "Randomly insert 2 '1' to the string: 11110111010110101011. Give me 3 different results."
+    },
+    {
+        "question": "Randomly insert 2 '0' to the string: 10000100000110100010. Give me 3 different results."
+    },
+    {
+        "question": "Randomly insert 2 '1' to the string: 00110111100000000001. Give me 3 different results."
+    },
+    {
+        "question": "Randomly insert 2 '0' to the string: 00011111011101010010. Give me 3 different results."
+    },
+    {
+        "question": "Randomly insert 2 '1' to the string: 00010110001010010010. Give me 3 different results."
+    },
+    {
+        "question": "Randomly insert 2 '0' to the string: 11000101110100010011. Give me 3 different results."
+    }
+]
