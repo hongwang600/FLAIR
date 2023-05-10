@@ -32,7 +32,9 @@ We choosed ten users for our user study.
 4. Each participant is allocated with 10 counting questions. Answers should match the results exactly.
 
 ### 2. Substitution
-
+1. We randomly choose 100 different english words as the original strings. 
+2. Then, we designed a random substitution rule to substitute characters within the words.
+3. Given the words and different substitution rules, participants should perform substitution and output the correct results.
 4. To standardize the experiment, each user will be allocated 10 substitution questions. Answers should match the results exactly.
 
 ### 3. Positioning
