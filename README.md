@@ -22,7 +22,7 @@ Below are the description for each FLAIR question:
 9. Computation - Questions require calculating the product of two randomly sampled four-digit numbers.
 
 ## Evaluation
-![Image text](https://github.com/hongwang600/FLAIR/blob/main/results.png)
+![Image text](https://github.com/hongwang600/FLAIR/blob/main/exp.png)
 
 ## Implementation Details
 We choosed ten users for our user study.
