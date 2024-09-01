@@ -22,7 +22,7 @@ The Random Editing dataset evaluates the model's ability to perform four distinc
 
 ### Searching
 
-In the Searching dataset, we generated 100 random 7x7 grids containing spaces and $\blacksquare$s. We used the Depth-First Search (DFS) algorithm to determine the number of islands in each grid, which served as the ground truth. The participants' task was to identify the correct number of islands.
+In the Searching dataset, we generated 100 random 7x7 grids containing spaces and \(\blacksquare\)s. We used the Depth-First Search (DFS) algorithm to determine the number of islands in each grid, which served as the ground truth. The participants' task was to identify the correct number of islands.
 
 ### ASCII Art Reasoning
 
