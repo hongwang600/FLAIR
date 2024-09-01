@@ -64,7 +64,7 @@ def island_solver(grid):
     return island_count
 
 for _ in range(N_SAMPLES):
-    island_sample = gen_island(7, 7, 0.4)
+    island_sample = gen_island(7, 7, 0.5)
     answer = island_solver(island_sample)
     print(island_sample)
     island_sample = matrix2str(island_sample)
