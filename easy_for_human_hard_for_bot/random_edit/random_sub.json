@@ -1,0 +1,77 @@
+[
+    {
+        "question": "Randomly substitute 2 '0' with '1' for the string: 11110100011110111100. Give me 3 different results."
+    },
+    {
+        "question": "Randomly substitute 2 '0' with '1' for the string: 01010110001101110101. Give me 3 different results."
+    },
+    {
+        "question": "Randomly substitute 2 '1' with '0' for the string: 11000101111100010001. Give me 3 different results."
+    },
+    {
+        "question": "Randomly substitute 2 '0' with '1' for the string: 11000001011011001001. Give me 3 different results."
+    },
+    {
+        "question": "Randomly substitute 2 '0' with '1' for the string: 10010000100111110111. Give me 3 different results."
+    },
+    {
+        "question": "Randomly substitute 2 '0' with '1' for the string: 11010001011010100101. Give me 3 different results."
+    },
+    {
+        "question": "Randomly substitute 2 '0' with '1' for the string: 01011101001100111101. Give me 3 different results."
+    },
+    {
+        "question": "Randomly substitute 2 '1' with '0' for the string: 00100001001010000000. Give me 3 different results."
+    },
+    {
+        "question": "Randomly substitute 2 '0' with '1' for the string: 11111100110111111000. Give me 3 different results."
+    },
+    {
+        "question": "Randomly substitute 2 '1' with '0' for the string: 10011100110000000110. Give me 3 different results."
+    },
+    {
+        "question": "Randomly substitute 2 '1' with '0' for the string: 10110000111010100001. Give me 3 different results."
+    },
+    {
+        "question": "Randomly substitute 2 '0' with '1' for the string: 10110000001110010111. Give me 3 different results."
+    },
+    {
+        "question": "Randomly substitute 2 '1' with '0' for the string: 01010011100111010110. Give me 3 different results."
+    },
+    {
+        "question": "Randomly substitute 2 '1' with '0' for the string: 01101001011000000100. Give me 3 different results."
+    },
+    {
+        "question": "Randomly substitute 2 '0' with '1' for the string: 11101101110001100101. Give me 3 different results."
+    },
+    {
+        "question": "Randomly substitute 2 '0' with '1' for the string: 11010111100111001101. Give me 3 different results."
+    },
+    {
+        "question": "Randomly substitute 2 '1' with '0' for the string: 00111011100001111110. Give me 3 different results."
+    },
+    {
+        "question": "Randomly substitute 2 '1' with '0' for the string: 11010111101111011011. Give me 3 different results."
+    },
+    {
+        "question": "Randomly substitute 2 '0' with '1' for the string: 01000111010110100000. Give me 3 different results."
+    },
+    {
+        "question": "Randomly substitute 2 '0' with '1' for the string: 01110010101110010100. Give me 3 different results."
+    },
+    {
+        "question": "Randomly substitute 2 '0' with '1' for the string: 00111101111010011001. Give me 3 different results."
+    },
+    {
+        "question": "Randomly substitute 2 '1' with '0' for the string: 11011101101111100010. Give me 3 different results."
+    },
+    {
+        "question": "Randomly substitute 2 '1' with '0' for the string: 10101111111111111111. Give me 3 different results."
+    },
+    {
+        "question": "Randomly substitute 2 '1' with '0' for the string: 10110100101000111001. Give me 3 different results."
+    },
+    {
+        "question": "Randomly substitute 2 '1' with '0' for the string: 01111010101001100101. Give me 3 different results."
+    }
+]

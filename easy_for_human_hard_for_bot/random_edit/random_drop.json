@@ -1,0 +1,77 @@
+[
+    {
+        "question": "Randomly drop 2 '1' from the string: 00010001110100100010. Give me 3 different results."
+    },
+    {
+        "question": "Randomly drop 2 '1' from the string: 11001110100111000100. Give me 3 different results."
+    },
+    {
+        "question": "Randomly drop 2 '1' from the string: 00111001100000001000. Give me 3 different results."
+    },
+    {
+        "question": "Randomly drop 2 '0' from the string: 10000110010011010110. Give me 3 different results."
+    },
+    {
+        "question": "Randomly drop 2 '1' from the string: 11110101011101001001. Give me 3 different results."
+    },
+    {
+        "question": "Randomly drop 2 '1' from the string: 01100010010000110100. Give me 3 different results."
+    },
+    {
+        "question": "Randomly drop 2 '0' from the string: 00100101100010001100. Give me 3 different results."
+    },
+    {
+        "question": "Randomly drop 2 '0' from the string: 00000101110000101111. Give me 3 different results."
+    },
+    {
+        "question": "Randomly drop 2 '0' from the string: 11001101100010100011. Give me 3 different results."
+    },
+    {
+        "question": "Randomly drop 2 '0' from the string: 10111111101111000001. Give me 3 different results."
+    },
+    {
+        "question": "Randomly drop 2 '1' from the string: 00111000100000111011. Give me 3 different results."
+    },
+    {
+        "question": "Randomly drop 2 '0' from the string: 00110001101110001010. Give me 3 different results."
+    },
+    {
+        "question": "Randomly drop 2 '0' from the string: 01111111110100010110. Give me 3 different results."
+    },
+    {
+        "question": "Randomly drop 2 '0' from the string: 01000111000110001001. Give me 3 different results."
+    },
+    {
+        "question": "Randomly drop 2 '1' from the string: 11100111010010010101. Give me 3 different results."
+    },
+    {
+        "question": "Randomly drop 2 '1' from the string: 01110100110001101010. Give me 3 different results."
+    },
+    {
+        "question": "Randomly drop 2 '0' from the string: 11001111101001010011. Give me 3 different results."
+    },
+    {
+        "question": "Randomly drop 2 '1' from the string: 01101010000111111010. Give me 3 different results."
+    },
+    {
+        "question": "Randomly drop 2 '0' from the string: 10111101111100110001. Give me 3 different results."
+    },
+    {
+        "question": "Randomly drop 2 '1' from the string: 01000100110111001001. Give me 3 different results."
+    },
+    {
+        "question": "Randomly drop 2 '1' from the string: 01011001010001010111. Give me 3 different results."
+    },
+    {
+        "question": "Randomly drop 2 '0' from the string: 11101110111101001100. Give me 3 different results."
+    },
+    {
+        "question": "Randomly drop 2 '1' from the string: 01010010000111100100. Give me 3 different results."
+    },
+    {
+        "question": "Randomly drop 2 '1' from the string: 01111010111111100011. Give me 3 different results."
+    },
+    {
+        "question": "Randomly drop 2 '1' from the string: 01000110000101111011. Give me 3 different results."
+    }
+]
