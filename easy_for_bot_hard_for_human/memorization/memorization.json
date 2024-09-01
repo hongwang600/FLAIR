@@ -1,0 +1,402 @@
+[
+    {
+        "question": "What is the surface area of Earth in square kilometers?",
+        "answer": ["510072000", "510 million"]
+    },
+    {
+        "question": "What is the distance from the Earth to the Moon in kilometers?",
+        "answer": "384400"
+    },
+    {
+        "question": "What is the height of Mount Everest in meters?",
+        "answer": "8848"
+    },
+    {
+        "question": "What is the speed of light in meters per second?",
+        "answer": "299792458"
+    },
+    {
+        "question": "What is the volume of the Great Pyramid of Giza in cubic meters?",
+        "answer": "2583283"
+    },
+    {
+        "question": "What is the length of the equator in kilometers?",
+        "answer": "40075"
+    },
+    {
+        "question": "How many teeth does an adult have?",
+        "answer": "32"
+    },
+    {
+        "question": "What is the number of bones in an adult human body?",
+        "answer": "206"
+    },
+    {
+        "question": "What is the number of chromosomes in a human cell?",
+        "answer": "46"
+    },
+    {
+        "question": "What is the distance from the Earth to the Sun in kilometers?",
+        "answer": ["149597870", "150 million"]
+    },
+    {
+        "question": "What is the depth of the Mariana Trench in meters?",
+        "answer": "around 11000"
+    },
+    {
+        "question": "What is the diameter of Jupiter in kilometers?",
+        "answer": ["139822", "142984"]
+    },
+    {
+        "question": "What is the height of the tallest building in the world the Burj Khalifa in meters?",
+        "answer": "828"
+    },
+    {
+        "question": "What is the diameter of the Earth's moon in kilometers?",
+        "answer": "3474"
+    },
+    {
+        "question": "What is the length of the Great Wall of China in kilometers?",
+        "answer": ["21196", "13170"]
+    },
+    {
+        "question": "What is the length of a marathon in kilometers?",
+        "answer": "42.195"
+    },
+    {
+        "question": "What is the number of elements in the periodic table?",
+        "answer": "118"
+    },
+    {
+        "question": "What is the distance between moon and earth in kilometers?",
+        "answer": ["384400", "384 thousand"]
+    },
+    {
+        "question": "What is the weight of the heaviest recorded human Jon Brower Minnoch in kilograms?",
+        "answer": "635"
+    },
+    {
+        "question": "What is the chemical formula for Ammonium Nitrate?",
+        "answer": "NH4NO3"
+    },
+    {
+        "question": "What is the number of bones in a human foot?",
+        "answer": "26"
+    },
+    {
+        "question": "What is the number of bones in a human hand?",
+        "answer": "27"
+    },
+    {
+        "question": "What is the chemical formula for the primary explosive used in detonators, known as Lead Azide?",
+        "answer": "Pb(N3)2"
+    },
+    {
+        "question": "What is the number of calories in a pound of body fat?",
+        "answer": "3500"
+    },
+    {
+        "question": "Who was the Prime Minister of the UK in 1924?",
+        "answer": "Ramsay MacDonald"
+    },
+    {
+        "question": "What is the formula for Buckyballs, a common name for a spherical fullerene?",
+        "answer": "C60"
+    },
+    {
+        "question": "What is the maximum number of characters that can be included in a tweet on Twitter?",
+        "answer": "280"
+    },
+    {
+        "question": "What is the capital of the Republic of Vanuatu?",
+        "answer": "Port Vila"
+    },
+    {
+        "question": "Which planet in our solar system has the most moons?",
+        "answer": ["Saturn", "Jupiter"]
+    },
+    {
+        "question": "What is the maximum number of characters that can be included in an SMS text message?",
+        "answer": "160"
+    },
+    {
+        "question": "What is the atomic number of the element mendelevium?",
+        "answer": "101"
+    },
+    {
+        "question": "What is the maximum payload capacity of the SpaceX Falcon Heavy rocket in kilogram?",
+        "answer": ["63800", "63000", "64000"]
+    },
+    {
+        "question": "What is the melting point of tungsten in Fahrenheit?",
+        "answer": "around 6200F"
+    },
+    {
+        "question": "What is the molecular weight of acetylsalicylic acid (aspirin)?",
+        "answer": "180.16"
+    },
+    {
+        "question": "What is the boiling point of liquid nitrogen in Fahrenheit?",
+        "answer": "-320.42"
+    },
+    {
+        "question": "Which element has the highest electrical conductivity?",
+        "answer": "Silver"
+    },
+    {
+        "question": "What is the specific heat capacity of water in J/kg°C?",
+        "answer": "around 4200"
+    },
+    {
+        "question": "What is the standard atmospheric pressure in kilopascals (kPa)?",
+        "answer": "101.325"
+    },
+    {
+        "question": "What is the freezing point of mercury in degrees Celsius?",
+        "answer": "-38.83"
+    },
+    {
+        "question": "What is the highest point on Earth above sea level in meters?",
+        "answer": "8848"
+    },
+    {
+        "question": "What is the melting point of tungsten in degrees Celsius?",
+        "answer": "3422"
+    },
+    {
+        "question": "What is the chemical formula for benzene?",
+        "answer": "C6H6"
+    },
+    {
+        "question": "Who invented the first programmable computer?",
+        "answer": ["Konrad Zuse", "Charles Babbage"]
+    },
+    {
+        "question": "What is the atomic number of gold?",
+        "answer": "79"
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "answer": "Alexander Fleming"
+    },
+    {
+        "question": "What is the chemical formula for glucose?",
+        "answer": "C6H12O6"
+    },
+    {
+        "question": "What is the name of the smallest bone in the human body?",
+        "answer": "Stapes"
+    },
+    {
+        "question": "What is the name of the largest moon in our solar system?",
+        "answer": "Ganymede"
+    },
+    {
+        "question": "Who discovered the process of pasteurization?",
+        "answer": "Louis Pasteur"
+    },
+    {
+        "question": "Who discovered the polio vaccine?",
+        "answer": "Jonas Salk"
+    },
+    {
+        "question": "Who was the first person to propose the idea of a heliocentric solar system?",
+        "answer": ["Nicolaus Copernicus", "Aristarchus of Samos"]
+    },
+    {
+        "question": "Who developed the first vaccine for smallpox?",
+        "answer": "Edward Jenner"
+    },
+    {
+        "question": "What is the name of the first woman to fly solo across the Atlantic?",
+        "answer": "Amelia Earhart"
+    },
+    {
+        "question": "Who discovered the structure of the benzene molecule?",
+        "answer": "Friedrich August Kekul\u00e9"
+    },
+    {
+        "question": "What year did Halley's Comet last pass close to the Earth?",
+        "answer": "1986"
+    },
+    {
+        "question": "What is the chemical formula for Acetone?",
+        "answer": "C3H60"
+    },
+    {
+        "question": "Who is credited with inventing the printing press?",
+        "answer": "Johannes Gutenberg"
+    },
+    {
+        "question": "What is the name of the largest volcano on Earth?",
+        "answer": "Mauna Loa"
+    },
+    {
+        "question": "Who discovered the law of thermodynamics?",
+        "answer": ["Sadi Carnot", "Rudolf Clausius", "William Thomson"]
+    },
+    {
+        "question": "Who first proposed the concept of genetics?",
+        "answer": "Gregor Mendel"
+    },
+    {
+        "question": "What is the name of the largest waterfall",
+        "answer": ["Victoria Falls", "Angel Falls", "Inga Falls"]
+    },
+    {
+        "question": "Who invented the first successful helicopter?",
+        "answer": "Igor Sikorsky"
+    },
+    {
+        "question": "What is the name of the largest canyon in the solar system?",
+        "answer": "Valles Marineris"
+    },
+    {
+        "question": "Name the scientist who first discovered the circulation of blood?",
+        "answer": "William Harvey"
+    },
+    {
+        "question": "Who discovered X-rays?",
+        "answer": "Wilhelm Conrad Roentgen"
+    },
+    {
+        "question": "What is the name of the first artificial element to be created?",
+        "answer": "Technetium"
+    },
+    {
+        "question": "Which novel won the Pulitzer Prize for Fiction in 1953?",
+        "answer": "The Old Man and the Sea"
+    },
+    {
+        "question": "What is the name of the largest underground cave system in the world?",
+        "answer": ["Son Doong Cave", "Mammoth Cave"]
+    },
+    {
+        "question": "Who discovered the principle of least action?",
+        "answer": ["Pierre Louis Maupertuis", "Euler"]
+    },
+    {
+        "question": "On the border of which two countries is Victoria Falls?",
+        "answer": "Zambia and Zimbabwe"
+    },
+    {
+        "question": "Who discovered the laws of planetary motion?",
+        "answer": "Johannes Kepler"
+    },
+    {
+        "question": "What is the name of the largest salt flat in the world?",
+        "answer": "Salar de Uyuni"
+    },
+    {
+        "question": "Who developed the first successful heart transplant?",
+        "answer": "Christiaan Barnard"
+    },
+    {
+        "question": "Who discovered the planet Uranus?",
+        "answer": "William Herschel"
+    },
+    {
+        "question": "Who discovered the principle of radioactivity?",
+        "answer": "Henri Becquerel"
+    },
+    {
+        "question": "Which country has the largest proven oil reserves as of the latest data?",
+        "answer": "Venezuela"
+    },
+    {
+        "question": "Who discovered the first subatomic particle?",
+        "answer": "J.J. Thomson"
+    },
+    {
+        "question": "What is the phenomenon where light waves bend around obstacles called?",
+        "answer": "diffraction"
+    },
+    {
+        "question": "Who discovered the element oxygen?",
+        "answer": ["Joseph Priestley", "Carl Wilhelm Scheele"]
+    },
+    {
+        "question": "Who developed the first successful kidney transplant?",
+        "answer": ["Joseph Murray", "Richard Lawler"]
+    },
+    {
+        "question": "Who discovered the principle of electromagnetic induction?",
+        "answer": "Michael Faraday"
+    },
+    {
+        "question": "Who developed the first successful liver transplant?",
+        "answer": "Thomas Starzl"
+    },
+    {
+        "question": "In what year was the element Oganesson first synthesized?",
+        "answer": "2002"
+    },
+    {
+        "question": "What genetic disorder is caused by a mutation in the CFTR gene?",
+        "answer": "Cystic fibrosis"
+    },
+    {
+        "question": "What is the boiling point of liquid nitrogen in degrees Celsius?",
+        "answer": "-196"
+    },
+    {
+        "question": "Who discovered the phenomenon of superconductivity?",
+        "answer": "Heike Kamerlingh Onnes"
+    },
+    {
+        "question": "Who wrote the epic poem 'Paradise Lost'?",
+        "answer": "John Milton"
+    },
+    {
+        "question": "What was the first synthetic polymer ever created?",
+        "answer": ["Bakelite", "Parkesine"]
+    },
+    {
+        "question": "What is the name of the largest delta in the world?",
+        "answer": ["Ganges Delta", "Sundarbans Delta"]
+    },
+    {
+        "question": "Which enzyme catalyzes the conversion of ATP to cAMP, playing a critical role in cellular signaling?",
+        "answer": "Adenylyl cyclase"
+    },
+    {
+        "question": "What is the name of the largest active volcano in Europe?",
+        "answer": "Mount Etna"
+    },
+    {
+        "question": "Who discovered the principle of buoyancy?",
+        "answer": "Archimedes"
+    },
+    {
+        "question": "Which element has the highest melting point?",
+        "answer": "Tungsten"
+    },
+    {
+        "question": "Who developed the first successful corneal transplant?",
+        "answer": "Eduard Zirm"
+    },
+    {
+        "question": "Who discovered the principle of the conservation of energy?",
+        "answer": ["Hermann von Helmholtz", "Julius Robert Mayer"]
+    },
+    {
+        "question": "What is the name of the oldest continuously inhabited city in the world?",
+        "answer": "Damascus, Syria"
+    },
+    {
+        "question": "What is the name of the largest moon in our solar system?",
+        "answer": "Ganymede"
+    },
+    {
+        "question": "What is the name of the largest asteroid in the asteroid belt?",
+        "answer": "Ceres"
+    },
+    {
+        "question": "What is the name of the particle that carries the weak nuclear force?",
+        "answer": "W boson"
+    },
+    {
+        "question": "What is the name of the largest moon of Saturn?",
+        "answer": "Titan"
+    }
+]
